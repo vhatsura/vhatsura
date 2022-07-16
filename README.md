@@ -2,10 +2,6 @@
 
 ![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhatsura&count_private=true&show_icons=true)
 
-#### Extra pins
-
-[![CodeOwners-Parser Card](https://github-readme-stats.vercel.app/api/pin/?username=vhatsura&repo=codeowners-parser)](https://github.com/vhatsura/codeowners-parser)
-
 <!--
 **vhatsura/vhatsura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
